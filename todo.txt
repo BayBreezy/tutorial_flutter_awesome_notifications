@@ -1,0 +1,12 @@
+1. Create Project
+2. Add dependencies
+3. Create folder structure
+3.5. Update min version on Android
+4. Create launcher icon
+5. Add custom sound to different native folders
+6. Rename the application 
+7. Create home page UI with buttons
+7. Run the app
+8. Add init function
+9. Create first channel
+10. create each notfication function
